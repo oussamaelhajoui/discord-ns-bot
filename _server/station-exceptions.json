@@ -1,0 +1,57 @@
+{
+    "exception": [
+        {
+            "false": [
+                "'T Harde",
+                "Harde 'T"
+            ],
+            "correct": "'t Harde"
+        },
+        {
+            "false": [
+                "Bergen Op Zoom"
+            ],
+            "correct": "Bergen op Zoom"
+        },
+        {
+            "false": [
+                "Den Haag Hs"
+            ],
+            "correct": "Den Haag HS"
+        },
+        {
+            "false": [
+                "Den Haag Laan V Noi",
+                "Den Haag Laan Van Noi",
+                "Den haag Noi"
+            ],
+            "correct": "Den Haag Laan v NOI"
+        },
+        {
+            "false": [
+                "'T Hout",
+                "Hout 'T"
+            ],
+            "correct": "'t Hout"
+        },
+        {
+            "false": [
+                "Koog Aan De Zaan"
+            ],
+            "correct": "Koog aan de Zaan"
+        },
+        {
+            "false": [
+                "Nieuwerkerk A D Ijssel",
+                "Nieuwerkerk Ad Ijssel"
+            ],
+            "correct": "Nieuwerkerk a/d IJssel"
+        },
+        {
+            "false": [
+                "Alphen Aan De Rijn"
+            ],
+            "correct": "Alphen a/d Rijn"
+        }
+    ]
+}
