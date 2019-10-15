@@ -25,11 +25,9 @@ In ontwikkeling:
 
 Standaard prefix is `!`. Voor meer informatie check `!help`
 
-Voor vragen, bug-reports en updates join de [Sero Support](https://discord.gg/WcwNtAA) discord server!
 
 Voeg [Sero](https://discordapp.com/api/oauth2/authorize?client_id=553561246339956766&permissions=0&scope=bot) toe aan jouw discord server!
 
-Made with <3 by [Fluxpuck](https://twitter.com/fluxpuck)
 -------------------
 
  \ ゜o゜)ノ
